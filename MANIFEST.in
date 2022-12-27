@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include branding *.css
+recursive-include branding *.csv
+recursive-include branding *.html
+recursive-include branding *.ico
+recursive-include branding *.js
+recursive-include branding *.json
+recursive-include branding *.md
+recursive-include branding *.png
+recursive-include branding *.py
+recursive-include branding *.svg
+recursive-include branding *.txt
+recursive-exclude branding *.pyc
