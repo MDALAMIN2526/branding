@@ -6,11 +6,11 @@ from . import __logo__ as app_logo
 
 app_name = "branding"
 app_title = "branding"
-app_publisher = "Bhavesh Maheshwari"
+app_publisher = "Md.Al-Amin"
 app_description = "ERPNext branding"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "maheshwaribhavesh95863@gmail.com"
+app_email = "amin252646@gmail.com"
 app_license = "MIT"
 app_logo_url = '/assets/branding/images/branding_logo.png'
 
